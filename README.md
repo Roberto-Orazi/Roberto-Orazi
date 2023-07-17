@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on **[Skillful](https://skillfuldev.com/)**
 - 🌱 I’m currently studying on the UNR an artificial intelligence carreer
 - 👨‍💻 All of my projects are available at my [Portfolio](https://robertoorazi.com.ar)
-- 
+
 #### Dev Work related 🚀
 - [FreeLance](https://robertoorazi.com.ar)
 - [Xircls](https://www.xircls.com/)
