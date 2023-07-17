@@ -27,7 +27,7 @@
 - [Categories](#categories)
     - [About Me 👨🏽‍💻](#about-me-)
     - [Dev Work related 🚀](#dev-work-related-)
-    - [Code Mode 💻](#code-mode-)
+    - [Connect with me 📱](#connect-with-me-)
     - [Dynamic Realtime 💫](#dynamic-realtime-)
     - [My 3D Printing page @3directimpresiones](#my-3d-printing-page-3directimpresiones)
     - [My Keyboards Page @thockycafe ⌨️](#my-keyboards-page-thockycafe-️)
@@ -46,14 +46,15 @@
 - [Cust Ex](https://custex.com/celebrity/home)
 - [Skillful](https://skillfuldev.com/)
 
-#### Code Mode 💻
-- [Thaiane Braga](https://github.com/Thaiane/Thaiane)
-- [Ash Baker](https://github.com/ashbakernz/ashbakernz)
-- [Anmol Singh](https://github.com/anmol098/anmol098)
-- [Kiho](https://github.com/monkindey/monkindey)
-- [Marton](https://github.com/martonlederer/martonlederer)
-- [Redowan Delowar](https://github.com/rednafi/rednafi)
-- [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
+#### Connect with me 📱
+<p align="left">
+<a href="https://twitter.com/robertorazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robertorazi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/robertoorazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertoorazi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/roberto-orazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="roberto-orazi" height="30" width="40" /></a>
+<a href="https://instagram.com/roberorazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roberorazi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thockycafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thockycafe" height="30" width="40" /></a>
+<a href="https://discord.gg/416418145176125440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="416418145176125440" height="30" width="40" /></a>
+</p>
 
 #### Dynamic Realtime 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
