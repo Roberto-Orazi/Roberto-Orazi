@@ -25,9 +25,9 @@
 
 ### Contents:
 - [Categories](#categories)
-    - [GitHub Actions 🤖](#github-actions-)
+    - [About Me 👨🏽‍💻](#about-me-)
     - [Dev Work related 🚀](#dev-work-related-)
-    - [Code Mode 👨🏽‍💻](#code-mode-)
+    - [Code Mode 💻](#code-mode-)
     - [Dynamic Realtime 💫](#dynamic-realtime-)
     - [My 3D Printing page @3directimpresiones](#my-3d-printing-page-3directimpresiones)
     - [My Keyboards Page @thockycafe ⌨️](#my-keyboards-page-thockycafe-️)
@@ -35,46 +35,18 @@
 
 ## Categories
 
-#### GitHub Actions 🤖
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
-- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
-- [Brian Douglas](https://github.com/bdougie/bdougie)
-- [Shawn Wang](https://github.com/sw-yx/sw-yx)
-- [Simon Willison](https://github.com/simonw/simonw)
-- [Mike Coutermarsh](https://github.com/mscoutermarsh/mscoutermarsh)
-- [Michael Hoffmann (Mokkapps)](https://github.com/mokkapps/mokkapps)
-- [Athul Cyriac Ajay](https://github.com/athul/athul)
-- [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
-- [Roald Nefs](https://github.com/roaldnefs/roaldnefs)
-- [Leo](https://github.com/mopig/mopig)
-- [Dhruv Jain](https://github.com/maddhruv/maddhruv)
-- [Erwin Lejeune](https://github.com/guilyx/guilyx)
-- [Jessica Lim](https://github.com/JessicaLim8/JessicaLim8)
-- [侑夕-Tw93](https://github.com/tw93/tw93)
-- [liununu](https://github.com/liununu/liununu)
-- [Filippo Rossi (qu4k)](https://github.com/qu4k/qu4k)
-- [Moe Poi ~](https://github.com/moepoi/moepoi)
-- [Elon Tang (blackcater)](https://github.com/blackcater/blackcater)
-- [Stanley Lim (Spiderpig86)](https://github.com/Spiderpig86/Spiderpig86)
-- [Akshit Garg (gargakshit)](https://github.com/gargakshit/gargakshit)
-- [Yufan You](https://github.com/ouuan/ouuan)
-- [Danny Koppenhagen](https://github.com/d-koppenhagen/d-koppenhagen)
-- [Vidya Bhandary](https://github.com/vidyabhandary/vidyabhandary)
-- [Rao Hai](https://github.com/RaoHai/RaoHai)
-- [Jatin Rao](https://github.com/jatin2003/jatin2003)
-- [teoxoy](https://github.com/teoxoy/teoxoy)
-- [Aral Roca](https://github.com/aralroca/aralroca)
-- [codeSTACKr](https://github.com/codestackr/codestackr)
-- [itgoyo](https://github.com/itgoyo/itgoyo)
-- [lifeparticle](https://github.com/lifeparticle/lifeparticle)
-
+#### About Me 👨🏽‍💻
+- 🔭 I’m currently working on [Skillful](https://skillfuldev.com/)
+- 🌱 I’m currently learning NodeJs
+- 👨‍💻 All of my projects are available at my [Portfolio](https://robertoorazi.com.ar)
+- 
 #### Dev Work related 🚀
 - [FreeLance](https://robertoorazi.com.ar)
 - [Xircls](https://www.xircls.com/)
 - [Cust Ex](https://custex.com/celebrity/home)
 - [Skillful](https://skillfuldev.com/)
 
-#### Code Mode 👨🏽‍💻
+#### Code Mode 💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
@@ -110,3 +82,12 @@
 - [Instagram](https://www.instagram.com/thockycafe/)
 - [Tik Tok](https://www.youtube.com/@thockycafe)
 - [Youtube](https://www.youtube.com/@thockycafe)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roberto-orazi&show_icons=true&locale=en&layout=compact" alt="roberto-orazi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roberto-orazi&show_icons=true&locale=en" alt="roberto-orazi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roberto-orazi&" alt="roberto-orazi" /></p>
