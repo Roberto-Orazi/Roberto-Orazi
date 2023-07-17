@@ -34,9 +34,13 @@
 
 
 ## Categories
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roberto-orazi&label=Profile%20views&color=0e75b6&style=flat" alt="roberto-orazi" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roberto-orazi" alt="roberto-orazi" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/robertorazi" target="blank"><img src="https://img.shields.io/twitter/follow/robertorazi?logo=twitter&style=for-the-badge" alt="robertorazi" /></a> </p>
 #### About Me 👨🏽‍💻
-- 🔭 I’m currently working on [Skillful](https://skillfuldev.com/)
+- 🔭 I’m currently working on **[Skillful](https://skillfuldev.com/)**
 - 🌱 I’m currently learning NodeJs
 - 👨‍💻 All of my projects are available at my [Portfolio](https://robertoorazi.com.ar)
 - 
