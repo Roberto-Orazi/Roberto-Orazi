@@ -73,7 +73,7 @@
 <div display='flex'>
 <p><img align="left" width='250' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=roberto-orazi&show_icons=true&locale=en&layout=compact" alt="roberto-orazi" /></p>
 
-<p>&nbsp;<img align="center" width='250' src="https://github-readme-stats-sigma-five.vercel.app/api?username=roberto-orazi&show_icons=true&locale=en" alt="roberto-orazi" /></p>
+<p><img align="center" width='250' src="https://github-readme-stats-sigma-five.vercel.app/api?username=roberto-orazi&show_icons=true&locale=en" alt="roberto-orazi" /></p>
 
-<p><img align="end" width='250' src="https://github-readme-streak-stats.herokuapp.com/?user=roberto-orazi&" alt="roberto-orazi" /></p>
+<p><img align="center" width='250' src="https://github-readme-streak-stats.herokuapp.com/?user=roberto-orazi&" alt="roberto-orazi" /></p>
 </div>
