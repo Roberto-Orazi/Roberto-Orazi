@@ -75,5 +75,5 @@
 
 <p>&nbsp;<img align="center" width='250' src="https://github-readme-stats-sigma-five.vercel.app/api?username=roberto-orazi&show_icons=true&locale=en" alt="roberto-orazi" /></p>
 
-<p><img align="right" width='250' src="https://github-readme-streak-stats.herokuapp.com/?user=roberto-orazi&" alt="roberto-orazi" /></p>
+<p>&nbsp;<img align="right" width='250' src="https://github-readme-streak-stats.herokuapp.com/?user=roberto-orazi&" alt="roberto-orazi" /></p>
 </div>
