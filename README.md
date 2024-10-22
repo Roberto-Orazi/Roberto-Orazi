@@ -21,7 +21,7 @@
 ## Categories
 
 #### About Me 👨🏽‍💻
-- 🔭 I’m currently working on **[Skillful](https://skillfuldev.com/)**
+- 🔭 I’m currently working on Wengoods
 - 🌱 I’m currently studying on the UNR an artificial intelligence carreer
 - 👨‍💻 All of my projects are available at my [Portfolio](https://robertoorazi.com.ar)
 
